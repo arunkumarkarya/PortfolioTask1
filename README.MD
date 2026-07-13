@@ -40,15 +40,13 @@ You can add screenshots of your portfolio here.
 
 1. Clone the repository
 
-`bash
 git clone https://github.com/itsarunak/PortfolioTask.git
-`
+
 
 2. Open the project folder
 
-`bash
 cd PortfolioTask
-`
+
 
 3. Open index.html in your browser.
 
